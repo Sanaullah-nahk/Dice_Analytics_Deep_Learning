@@ -1,6 +1,8 @@
 # Handwritten Digit Recognition with TensorFlow
 
-<font face="Arial" size="3" color="black">Welcome to a comprehensive project on recognizing handwritten digits using TensorFlow. This project is a blend of deep learning practices, from data manipulation to leveraging pre-trained models.</font>
+
+
+<font face="Arial" size="4" color="red"><b><a href="https://github.com/Sanaullah-nahk/Dice_Analytics_Deep_Learning/blob/main/Assignment_2.ipynb" target="_blank">Click here to review the main Jupyter notebook file for this repository.</a></b></font>
 
 ## Task 1: Data Preparation and Training
 
